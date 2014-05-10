@@ -26,7 +26,8 @@ PRODUCT_PACKAGES += \
     audio_policy.msm8226 \
     libaudioparameter \
     libqcomvisualizer \
-    libqcomvoiceprocessing
+    libqcomvoiceprocessing \
+    libqcompostprocbundle
 
 # Ebtables
 PRODUCT_PACKAGES += \
